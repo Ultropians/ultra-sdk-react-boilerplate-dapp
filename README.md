@@ -1,26 +1,40 @@
 # ultra-react-sdk-boilerplate-dapp
-A simple boilerplate dApp with wallet connect using the Ultra Tech Alliance Ultra-SDK for React
+A simple boilerplate ultra.io dApp with wallet connect using the Ultra Tech Alliance Ultra-SDK and UI-kit for React.
 
-# Getting Started with Create React App
+**The documentation for this is available via https://docs.ultra-alliance.tech/index.html**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Ultra_dapp](https://github.com/Ultropians/ultra-react-sdk-boilerplate-dapp/assets/133776384/6d01dbc6-4be2-4614-9010-db83729ee331)
 
-## Available Scripts
+# Important info
+
+**Make sure to have the Ultra Wallet Extension installed.** 
+This can be found via: https://chrome.google.com/webstore/detail/ultra-wallet/kjjebdkfeagdoogagbhepmbimaphnfln
+
+In order to run this application in browser while developing, you will need to serve the app over HTTPS otherwise wallet login will not work. 
 
 In the project directory, you can run:
 
-### `npm start`
+**Windows (Powershell) :**
+### `($env:HTTPS = "true") -and (npm start)`
+
+**Windows (cmd.exe) :**
+### `set HTTPS=true&&npm start`
+
+**Linux, macOS (Bash) : **
+### `HTTPS=true npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [https://localhost:3000](https://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+See also https://create-react-app.dev/docs/using-https-in-development/ for more information on running serving over HTTPS.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### `npm run build`
 
