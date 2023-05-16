@@ -20,7 +20,7 @@ In the project directory, you can run:
 **Windows (cmd.exe) :**
 ### `set HTTPS=true&&npm start`
 
-**Linux, macOS (Bash) : **
+**Linux, macOS (Bash) :**
 ### `HTTPS=true npm start`
 
 Runs the app in the development mode.\
