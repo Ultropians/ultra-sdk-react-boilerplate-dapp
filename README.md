@@ -3,7 +3,7 @@ A simple boilerplate ultra.io dApp with wallet connect using the Ultra Tech Alli
 
 **The documentation for this is available via https://docs.ultra-alliance.tech/index.html**
 
-![Ultra_dapp](https://github.com/Ultropians/ultra-react-sdk-boilerplate-dapp/assets/133776384/6d01dbc6-4be2-4614-9010-db83729ee331)
+![Ultra_dapp](https://github.com/Ultropians/ultra-sdk-react-boilerplate-dapp/assets/133776384/28b3ecd5-fa31-4467-8fe0-b02e95180b1b)
 
 # Important info
 
