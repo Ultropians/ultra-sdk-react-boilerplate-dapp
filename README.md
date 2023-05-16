@@ -1,3 +1,6 @@
+# ultra-react-sdk-boilerplate-dapp
+A simple boilerplate dApp with wallet connect using the Ultra Tech Alliance Ultra-SDK for React
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
